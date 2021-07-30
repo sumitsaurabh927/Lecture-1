@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Fun with flags
 
 This is a quiz app I created during level 0 of neogcamp. It is a CLI app for people to see how well they know our flag. You will find the link to play the game below:
