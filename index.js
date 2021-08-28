@@ -5,7 +5,11 @@ var quizResource=[
   {question:"What's the color of the second stripe in our flag? ",
   answer:"WHITE"},
   {  question:"What's the color of the third stripe in our flag? ",
-  answer:"GREEN"}
+  answer:"GREEN"},
+  {  question:"What's the color of the Ashoka Chakra in our flag? ",
+  answer:"BLUE"},
+  {  question:"Our flag has a total of five colours (True/False)? ",
+  answer:"FALSE"}
 ];
 
 var highScores=[
