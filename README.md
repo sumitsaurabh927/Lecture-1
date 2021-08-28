@@ -1,4 +1,4 @@
-# Fun with flags
+# Flags quiz app
 
 This is a CLI quiz app for people to see how well they know our flag. You will find the link to play the game below:
 
