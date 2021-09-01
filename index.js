@@ -22,6 +22,7 @@ var highScores=[
 var score=0
 
 console.log("Welcome to fun with flags!\n")
+console.log("This quiz contains a total of 5 questions!")
 
 function quiz(ques,ans){
  
